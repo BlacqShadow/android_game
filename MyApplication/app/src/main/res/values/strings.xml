@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Kumar_Rudra_215241112</string>
+    <string name="title">Ball Crusher</string>
+    <string name="exit">Exit</string>
+    <string name="about">About</string>
+    <string name="score">Score List</string>
+    <string name="new_game">New Game</string>
+</resources>
